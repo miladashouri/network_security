@@ -19,7 +19,7 @@ After installing the required dependencies, run the jupyter notebook by:
 
 ```jupyter notebook```
 
-In the jupyter notebook navigator, run the model.ipyAfter installing the required dependencies, run the jupyter notebook by:
+In the jupyter notebook navigator, run the model.ipynb. 
 
 ```Model.ipynb```
 
